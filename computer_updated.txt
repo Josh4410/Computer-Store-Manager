@@ -1,0 +1,32 @@
+Desktop PC,Gaming,DTPCG1,GGPC,Intel Core i5,2199,16,500
+Desktop PC,Gaming,DTPCG2,DELL,Intel Core i9,8449,32,512
+Desktop PC,Gaming,DTPCG3,ASUS,AMD Ryzen 7,2799,16,1000
+Desktop PC,Home & Study,DTPCHS1,PB,AMD Ryzen 7,1263,16,500
+Desktop PC,Home & Study,DTPCHS2,PB,Intel Core i5,1598,16,500
+Desktop PC,Home & Study,DTPCHS3,PB,AMD Ryzen 7,1099,16,512
+Desktop PC,Business,DTPCB1,PB,Intel Core i7,1498,16,1000
+Desktop PC,Business,DTPCB2,HP,Intel Core i5,1555,8,256
+Desktop PC,Business,DTPCB3,LENOVO,AMD Ryzen 5,1242,8,256
+Desktop PC,Business,DTPCB4,HP,Intel Core i3,1006,8,256
+Desktop PC,Compact,DTPCC1,APPLE,Apple,1158,8,256
+Desktop PC,Compact,DTPCC2,APPLE,Apple,1498,8,512
+Desktop PC,Compact,DTPCC3,HP,Intel Core i5,1555,8,256
+Desktop PC,Compact,DTPCC4,LENOVO,AMD Ryzen 5,1242,8,256
+Laptop,Business,LTB1,HP,Intel Core i5,1647,8,256
+Laptop,Business,LTB2,APPLE,Apple,4299,16,512
+Laptop,Business,LTB3,LENOVO,AMD Ryzen 5,1787,16,512
+Laptop,Business,LTB4,ASUS,Intel Core i7,1552,16,512
+Laptop,Home & Study,LTHS1,APPLE,Apple,1728,8,256
+Laptop,Home & Study,LTHS2,LENOVO,Intel Core i5,954,8,256
+Laptop,Home & Study,LTHS3,MICROSOFT,Intel Core i5,1189,8,128
+Laptop,Thin & Light,LTSL1,APPLE,Apple,1728,8,256
+Laptop,Thin & Light,LTSL2,APPLE,Apple,2499,8,512
+Laptop,Gaming,LTG1,ASUS,Intel Core i5,1840,16,512
+Laptop,Gaming,LTG2,HP,APPLE,9999,8,256
+Tablet,Android,TBAD1,LENOVO,Snapdragon,214,10.000000
+Tablet,Android,TBAD2,LENOVO,Mediatek,578,11.000000
+Tablet,Apple,TBAP1,APPLE,Apple,819,12.200000
+Tablet,Apple,TBAP2,APPLE,Apple,878,12.900000
+Tablet,Apple,TBAP3,APPLE,Apple,2499,12.900000
+Tablet,Windows,TBWD1,MICROSOFT,Intel Pentium,694,10.500000
+Tablet,Windows,TBWD2,MICROSOFT,Intel Core i5,1798,13.000000
